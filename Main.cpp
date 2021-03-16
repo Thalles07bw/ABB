@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cstdlib>
-#include "arvore.hpp" //importando arvore binária para utilizar na resulução
+#include "arvore.hpp" //importando arvore binária para utilizar na resolução
 using namespace std;
 
 void geradorDeAmostras (int vet[]){//gera a uma amostra pseudo-aleatória para simular o que é pedido no problema
